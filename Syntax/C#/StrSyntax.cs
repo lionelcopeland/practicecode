@@ -65,7 +65,7 @@ namespace Short_Story
 			Console.Writeline("A raging Tesla burst through the walls of Burger King and crushed the cyborg.")
 			
 			
-			Console.ReadKey(;)
+			Console.ReadKey();
 			
 		}
 	}
